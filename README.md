@@ -35,7 +35,7 @@
 
   ```bash
   java -version
-````
+  ```
 
 If not installed, download it from [Adoptium](https://adoptium.net/) or use your system's package manager.
 
